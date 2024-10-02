@@ -1,5 +1,6 @@
-## Hi there 👋
+## Welcome to Road to IPM - Your One Stop Solution for getting into IPM IIM👋
 
+We help you to connect with IPM students and alumni and train you to achieve your ~~dream~~goal
 <!--
 **roadtoipm/roadtoipm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
